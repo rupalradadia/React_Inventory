@@ -1,6 +1,5 @@
 function Card(){
     return
 }
-//added comment
-
+//added
 export default Card;
